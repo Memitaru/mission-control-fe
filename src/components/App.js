@@ -9,7 +9,7 @@ import { LabelProvider } from '../contexts/LabelContext';
 import { ColumnProvider } from '../contexts/ColumnContext';
 
 const App = () => {
-  const location = useLocation();
+  // const location = useLocation();
 
   // useEffect(() => {
   //   initializeAnalytics();
